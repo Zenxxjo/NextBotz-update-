@@ -29,9 +29,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/zealouscloud'
 global.syt = 'https://youtube.com/@zealouscloud'
-global.sgh = 'https://github.com/Turu-bangun'
+global.sgh = 'https://github.com/zealouscloud'
 global.sgc = 'https://chat.whatsapp.com/G47j2dMo5ngHubobAvFZBX'
-global.swa = 'wa.me/6282214729677'
+global.swa = 'wa.me/6282177012660'
 global.swb = 'https://discord.gg/yJn2NKKhSD'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
